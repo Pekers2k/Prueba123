@@ -12,10 +12,11 @@ public class PruebaGit {
 
     public static void main(String[] args) {
         System.out.println("Prueba de repositorio");
-        int a,b,c;
+        int a,b,c,d;
         a=10;b=25;
         c=a+b;
-        System.out.println("El numero es :"+c);
+        d=c*a*b;
+        System.out.println("El numero es :"+d);
     
     
     }
